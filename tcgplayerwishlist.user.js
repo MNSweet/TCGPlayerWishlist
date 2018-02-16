@@ -6,7 +6,7 @@
 // @author       MNSweet
 // @match        https://shop.tcgplayer.com/*
 // @grant        none
-// @license      GNU GENERAL PUBLIC LICENSE
+// @license MIT
 // ==/UserScript==
 
 function addToWishlist(name,url) {
